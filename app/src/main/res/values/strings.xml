@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Events Detector</string>
+    <string name="about_us">Information</string>
+    <string name="share">Share</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="developer">Created by Muhammadali</string>
+</resources>
